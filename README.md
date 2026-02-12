@@ -471,7 +471,7 @@ HR-Attrition-Prediction-Pipeline/
 **[Ganti Poorna Sai]**  
 *Aspiring HR Data Analyst | Machine Learning Enthusiast*
 
-Email: gantipoornasai6gmail.com  
+Email: [gantipoornasai6gmail.com](gantipoornasai6gmail.com)   
 LinkedIn: [linkedin.com/in/g-poorna-sai](https://linkedin.com/in/g-poorna-sai)   
 GitHub: [github.com/gantipoornasai](https://github.com/gantipoornasai)
 
