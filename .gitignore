@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Data Files (optional - remove if you want to upload data)
+data/raw/*.csv
+data/processed/*.csv
+data/external/*.csv
+
+# Models (optional - keep if models are small <100MB)
+# models/*.pkl
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
